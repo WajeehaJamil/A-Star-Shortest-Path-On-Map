@@ -8,7 +8,7 @@ Considering we have this map of Islamabad, where we want to know the path from t
 
 In order to achieve it through A star, firstly, we would marks our map with paths and with their longtitude and lattitude values. For this example I have taken dummy values of longitude and lattitude.
 
-![alt text](https://github.com/WajeehaJamil/A-Star-Shortest-Path-On-Map/blob/master/2.png)
+![alt text](https://github.com/WajeehaJamil/A-Star-Shortest-Path-On-Map/blob/master/4.png)
 
 By applying A star we will come up with the shortest path that is: A -> B -> F -> H -> K -> P -> X -> Z
 
