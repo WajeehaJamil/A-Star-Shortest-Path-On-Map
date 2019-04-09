@@ -1,5 +1,5 @@
 # A-Star-Shortest-Path-On-Map
-Shortest path calculated on map with dummy longitude and lattitude values.
+Shortest path calculated on map of Islamabad with dummy longitude and lattitude values.
 
 ![alt text](https://github.com/WajeehaJamil/A-Star-Shortest-Path-On-Map/blob/master/1.png)
 
